@@ -146,7 +146,7 @@ h1,h2{
   .js {width: 60%; background-color: #f44336;border-radius: 5px;} /* Red */
   .php {width: 60%; background-color: #808080;border-radius: 5px;} /* Dark Grey */
   .java {width: 85%; background-color: #f44336;border-radius: 5px;} /* Blue */
-  .sql {width: 65%; background-color: #f44336;border-radius: 5px;} /* Red */
+  .sql {width: 75%; background-color: #f44336;border-radius: 5px;} /* Red */
   .dbms {width: 70%; background-color: #cf7c7c;border-radius: 5px;} /* Dark Grey */
   /*Responsive
   ==========================================*/
